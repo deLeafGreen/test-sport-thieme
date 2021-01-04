@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.issue {
+  display: block;
+  align-items: center;
+  border: 1px solid #000000;
+  margin: 12.5%;
+  width: 50%;
+}
+
+
+
+
