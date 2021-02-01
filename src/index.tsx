@@ -42,7 +42,8 @@ const httpLink = new HttpLink({
     headers: {
         authorization: `Bearer ${
          //   GetBearerToken
-        'e9f294bb04821a25932718b32a82ec1f64b6530a'
+            //insert bearer token here the application is not in an gold state yet
+        
         }`,
     },
 });
